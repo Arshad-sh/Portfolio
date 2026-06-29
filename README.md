@@ -4,15 +4,8 @@ A modern, responsive, and interactive portfolio website built with **React**, **
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** https://your-vercel-link.vercel.app
+🔗 **Portfolio:** portfolio-umber-theta-45.vercel.app/
 
-## 📸 Preview
-
-> Add a screenshot of your portfolio homepage here.
-
-Example:
-
-![Portfolio Screenshot](./src/assets/portfolio-preview.png)
 
 ---
 
