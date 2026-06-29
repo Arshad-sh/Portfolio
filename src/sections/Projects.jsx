@@ -13,8 +13,8 @@ const featuredProject = {
   desc: "A modern Pomodoro productivity application built with React that helps users improve focus through customizable work sessions, analytics, authentication, and interactive dashboards.",
   technologies: ["React", "Material UI", "Recharts", "React Router", "JavaScript", "Vite"],
   image: focusBoosterImg,
-  github: "https://github.com/Arshad-sh",
-  live: "https://github.com/Arshad-sh",
+  github: "https://github.com/Arshad-sh/Focus_booster",
+  live: "focus-booster-two.vercel.app",
 };
 
 const otherProjects = [
@@ -24,7 +24,7 @@ const otherProjects = [
     technologies: ["React", "Axios", "JavaScript", "CSS", "OMDb API"],
     image: movieSearchImg,
     github: "https://github.com/Arshad-sh/movie-search",
-    live: "https://github.com/Arshad-sh/movie-search",
+    live: "movie-search-eta-bice.vercel.app",
   },
   {
     name: "Simon Says Game",
@@ -32,7 +32,7 @@ const otherProjects = [
     technologies: ["HTML", "CSS", "JavaScript"],
     image: simonSaysImg,
     github: "https://github.com/Arshad-sh/Simon-Say-Game-",
-    live: "https://github.com/Arshad-sh/Simon-Say-Game-",
+    live: "https://arshad-sh.github.io/Simon-Say-Game-/",
   },
   {
     name: "Weather App",
@@ -40,7 +40,7 @@ const otherProjects = [
     technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
     image: weatherAppImg,
     github: "https://github.com/Arshad-sh/Wheather-app",
-    live: "https://github.com/Arshad-sh/Wheather-app",
+    live: "https://wheather-app-dusky-iota.vercel.app/",
   },
 ];
 
