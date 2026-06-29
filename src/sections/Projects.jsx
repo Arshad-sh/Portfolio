@@ -14,7 +14,7 @@ const featuredProject = {
   technologies: ["React", "Material UI", "Recharts", "React Router", "JavaScript", "Vite"],
   image: focusBoosterImg,
   github: "https://github.com/Arshad-sh/Focus_booster",
-  live: "focus-booster-two.vercel.app",
+  live: "https://focus-booster-two.vercel.app/",
 };
 
 const otherProjects = [
